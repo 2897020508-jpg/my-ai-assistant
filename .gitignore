@@ -1,0 +1,7 @@
+# 密钥文件：绝对不能上传！
+.streamlit/secrets.toml
+
+# 其他不该上传的东西
+__pycache__/
+*.pyc
+.DS_Store
